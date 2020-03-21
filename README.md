@@ -17,8 +17,11 @@ and press Build
 
 #CLI:
 You use the terminal version you simply type in
-the name of the UI file including extention
+the url+name of the UI file including extention
 then suply name of output python script
+__syntax__:
+UI:path\to\file.ui
+name:name.py
 
 #Developer:
 Tanaka Chinengundu
