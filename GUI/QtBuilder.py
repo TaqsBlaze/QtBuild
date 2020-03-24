@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-# Form implementation generated from reading ui file 'C:\Users\admire.BLAZE.000\Desktop\QT\qtbuilder.ui'
 #
 # Created by: PyQt5 UI code generator 5.13.0
 #
