@@ -17,8 +17,8 @@ def Message(message):
 	
 
 if(len(sys.argv) < 3):
-	src = raw_input("Enter UI file:")
-	scp = raw_input("Enter script name:")
+	src = str(input("Enter UI file:"))
+	scp = str(input("Enter script name:"))
 else:
 	if(len(sys.argv) == 3):
 		src = sys.argv[1]
