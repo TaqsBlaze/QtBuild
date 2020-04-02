@@ -14,7 +14,7 @@ on your terminal.<br>
 by using the GUI version you only need to supply
 source UI file and give your output script name
 and press Build<br>
-![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/qtgui.png)
+![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/qtgui.png)<br>
 #CLI:#
 You use the terminal version you simply type in
 the url+name of the UI file including extention
@@ -22,13 +22,15 @@ then suply name of output python script<br>
 **syntax:**<br>
 `UI:path\to\file.ui`<br>
 `name:name.py`<br>
-![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/cli.png)
+![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/cli.png)<br>
 
 #Developer:#
+<br>
 Tanaka Chinengundu<br>
 [https://github.com/TaqsBlaze](https://github.com/TaqsBlaze)<br>
 [https://softaz.herokuapp.com](https://softaz.herokuapp.com)
 
 #Bug report:#
+<br>
 softazinfo@gmail.com<br>
 tanakah30@gmail.com
