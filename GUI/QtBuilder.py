@@ -105,7 +105,7 @@ class Ui_QtBuilder(object):
         self.UIEntry.setPlaceholderText(_translate("QtBuilder", "UI source file"))
         self.OutputEntry.setPlaceholderText(_translate("QtBuilder", "Out put script Name"))
         self.BuildButton.setText(_translate("QtBuilder", "Build"))
-        self.label_2.setText(_translate("QtBuilder", "Version 1.0.0"))
+        self.label_2.setText(_translate("QtBuilder", "Version 1.0.2"))
         self.menuAbout.setTitle(_translate("QtBuilder", "About"))
         self.actionQt_Builder.setText(_translate("QtBuilder", "Qt Builder"))
         self.actionDeveloper.setText(_translate("QtBuilder", "Developer"))

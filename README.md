@@ -13,15 +13,16 @@ on your terminal.<br>
 #GUI:#
 by using the GUI version you only need to supply
 source UI file and give your output script name
-and press Build
-
+and press Build<br>
+![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/qtgui.png)
 #CLI:#
 You use the terminal version you simply type in
 the url+name of the UI file including extention
 then suply name of output python script<br>
 **syntax:**<br>
 `UI:path\to\file.ui`<br>
-`name:name.py`
+`name:name.py`<br>
+![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/cli.png)
 
 #Developer:#
 Tanaka Chinengundu<br>
