@@ -1,3 +1,6 @@
+#version 1.0.2#
+~ Fixed bug in win32_setup
+
 #version 1.0.1#
 ~ Dark mode
 
