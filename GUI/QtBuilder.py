@@ -96,7 +96,7 @@ class Ui_QtBuilder(object):
 
         self.retranslateUi(QtBuilder)
         QtCore.QMetaObject.connectSlotsByName(QtBuilder)
-        self.BuildButton.clicked.connect(self.Build)
+        self.BuildButton.clicked.connect(self.build)
         
     def retranslateUi(self, QtBuilder):
         _translate = QtCore.QCoreApplication.translate
@@ -111,7 +111,7 @@ class Ui_QtBuilder(object):
         self.actionDeveloper.setText(_translate("QtBuilder", "Developer"))
         self.actionChange_log.setText(_translate("QtBuilder", "Change log"))
 
-    def Build(self):
+    def build(self):
         import os
         UI = self.UIEntry.text()
         Script = self.OutputEntry.text()
@@ -129,6 +129,9 @@ class Ui_QtBuilder(object):
              self.Notifs.setText("Script built successfully")
         else:
              self.Notifs.setText("Could not build script!!")
+             
+    def updater(self):
+        from qtsys.update import updater
 
 if __name__ == "__main__":
     import sys
