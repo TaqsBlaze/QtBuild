@@ -97,7 +97,7 @@ class Ui_QtBuilder(object):
         self.retranslateUi(QtBuilder)
         QtCore.QMetaObject.connectSlotsByName(QtBuilder)
         self.BuildButton.clicked.connect(self.build)
-        
+
     def retranslateUi(self, QtBuilder):
         _translate = QtCore.QCoreApplication.translate
         QtBuilder.setWindowTitle(_translate("QtBuilder", "MainWindow"))
@@ -121,7 +121,7 @@ class Ui_QtBuilder(object):
             script_dir = "Scripts"
         else:
             pass
-            
+    
         os.system("cd ../")
         script_dir = "Scripts"
         build_script = os.system("""pyuic5 -x {} -o {}""".format(UI,script_dir +"/" + Script))
@@ -132,7 +132,8 @@ class Ui_QtBuilder(object):
              
     def updater(self):
         from qtsys.update import updater
-
+    def settings(self):
+        from qtsys.config import settings
 if __name__ == "__main__":
     import sys
     app = QtWidgets.QApplication(sys.argv)
