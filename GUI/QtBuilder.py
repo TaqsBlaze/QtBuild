@@ -97,6 +97,7 @@ class Ui_QtBuilder(object):
         self.retranslateUi(QtBuilder)
         QtCore.QMetaObject.connectSlotsByName(QtBuilder)
         self.BuildButton.clicked.connect(self.build)
+        self.actionQt_Builder.triggered.connect(self.settings)
 
     def retranslateUi(self, QtBuilder):
         _translate = QtCore.QCoreApplication.translate

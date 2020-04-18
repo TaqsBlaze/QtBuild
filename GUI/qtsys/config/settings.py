@@ -130,11 +130,11 @@ class Ui_Frame(object):
         self.label_5.setText(_translate("Frame", "<hr>"))
 
 
-if __name__ == "__main__":
-    import sys
-    app = QtWidgets.QApplication(sys.argv)
-    Frame = QtWidgets.QFrame()
-    ui = Ui_Frame()
-    ui.setupUi(Frame)
-    Frame.show()
-    sys.exit(app.exec_())
+#if __name__ == "__main__":
+import sys
+#app = QtWidgets.QApplication(sys.argv)
+Frame = QtWidgets.QFrame()
+ui = Ui_Frame()
+ui.setupUi(Frame)
+Frame.show()
+#sys.exit(app.exec_())
