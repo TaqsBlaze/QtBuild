@@ -20,3 +20,6 @@ except ImportError:
 			time.sleep(3)
 			exit()
 
+print("[+]PyQt5 is already installed on your system")
+print("[+]You may want to manually configure pyuic5\nin environment variables")
+print("[+]Exiting...")
