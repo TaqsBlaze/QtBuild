@@ -1,10 +1,17 @@
+#version 1.2.3#
+- ```File browser button```
+- ```Custom folder entry```
+- ```Error reporting```
+- ```Settings dialog```
+- ```New version installation dialog```
+
+
 #version 1.0.2#
-~ Fixed bug in win32_setup
+- ```Fixed bug in win32_setup```
 
 #version 1.0.1#
-~ Dark mode
+- ```Dark mode```
 
 
-#version 1.0.0
-#
-~ converting UI to py
+#version 1.0.0#
+- ```converting UI to py```

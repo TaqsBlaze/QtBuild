@@ -1,1 +1,7 @@
-__pycache__
+GUI/__pycache__
+GUI/qtsys__pycache__
+GUI/qtsys/update__pycache__
+GUI/qtsys/config__pycache__
+
+
+*.pyc
