@@ -14,7 +14,7 @@ on your terminal.<br>
 by using the GUI version you only need to supply
 source UI file and give your output script name
 and press Build<br>
-![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/qtgui.png)<br>
+![](https://github.com/TaqsBlaze/QtBuild/blob/1.2.2/docs/qtgui.png)<br>
 ##CLI<br>
 You use the terminal version you simply type in<br>
 the url+name of the UI file including extention<br<br>>
