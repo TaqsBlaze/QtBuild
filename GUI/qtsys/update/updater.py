@@ -37,7 +37,7 @@ class Updater(object):
 
 
 	def download_update(self,update_url,update_string):
-		Update = open("QtBuilder-"+update_string+"zip","wb")
+		Update = open("QtBuilder-"+update_string+".zip","wb")
 		cache_data = urllib.request.urlopen(update_url).read()
 		Update.write(cache_data)
 		Update.close()
