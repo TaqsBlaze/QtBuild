@@ -1,4 +1,4 @@
-##QT Builder
+##QT Builder##
 
 QT Builder is a easy to use tool that allowes users
 to convert their Qt UI files to python scripts.
@@ -10,7 +10,7 @@ on your terminal.<br>
 - GUI<br>
 - CLI<br>
 
-##GUI<br>
+##GUI##<br>
 by using the GUI version you only need to supply
 source UI file and give your output script name
 and press Build<br>
@@ -24,29 +24,29 @@ then suply name of output python script<br>
 `name:name.py`<br>
 ![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/cli.png)<br>
 
-##Developer<br>
+##Developer##<br>
 Tanaka Chinengundu<br>
 [https://github.com/TaqsBlaze](https://github.com/TaqsBlaze)<br>
 [https://softaz.herokuapp.com](https://softaz.herokuapp.com)<br>
 
-##Bug report<br>
+##Bug report##<br>
 softazinfo@gmail.com<br>
 tanakah30@gmail.com<br>
 ##
-##Change Log<br>
-##version 1.2.2<br>
+#Change Log#<br>
+**version 1.2.2**<br>
 - ```File browser button```
 - ```Custom folder entry```
 - ```Error reporting```
 - ```Settings dialog```
 - ```New version installation dialog```
 
-##version 1.1.1
+**version 1.1.1**
 - ```Fixed bug in win32_setup```
 
-##version 1.1.0
+**version 1.1.0**
 - ```Dark mode```
 
 
-##version 1.0.0
+**version 1.0.0**
 - ```converting UI to py```
