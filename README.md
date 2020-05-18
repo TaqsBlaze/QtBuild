@@ -1,4 +1,4 @@
-#QtBuilder# :rocket: :octocat:
+**QtBuider** :rocket: :octocat:
 
 QT Builder is a easy to use tool that allowes users
 to convert their Qt UI files to python scripts.
@@ -10,13 +10,13 @@ on your terminal.<br>
 - GUI<br>
 - CLI<br>
 
-![Download Installer](https://github.comTaqsBlaze/QtBuild/blob/master/executable/QtBuild1.2.2.zip)<br>
-#GUI#<br>
+[Download Installer](https://github.comTaqsBlaze/QtBuild/blob/master/executable/QtBuild1.2.2.zip)<br>
+**GUI**<br>
 by using the GUI version you only need to supply
 source UI file and give your output script name
 and press Build<br>
 ![](https://github.com/TaqsBlaze/QtBuild/blob/1.2.2/docs/qtgui.png)<br>
-##CLI<br>
+**CLI**<br>
 You use the terminal version you simply type in<br>
 the url+name of the UI file including extention<br<br>>
 then suply name of output python script<br>
@@ -25,16 +25,15 @@ then suply name of output python script<br>
 `name:name.py`<br>
 ![](https://github.com/TaqsBlaze/QtBuild/blob/master/docs/cli.png)<br>
 
-##Developer##<br>
+**Developer**<br>
 Tanaka Chinengundu<br>
 [https://github.com/TaqsBlaze](https://github.com/TaqsBlaze)<br>
 [https://softaz.herokuapp.com](https://softaz.herokuapp.com)<br>
 
-##Bug report##<br>
+**Bug report**<br>
 softazinfo@gmail.com<br>
 tanakah30@gmail.com<br>
-##
-#Change Log#<br>
+**Change Log**<br>
 **version 1.2.2**<br>
 - ```File browser button```
 - ```Custom folder entry```
