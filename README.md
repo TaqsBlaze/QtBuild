@@ -1,4 +1,4 @@
-#QtBuilder# :rocket: :octocate:
+#QtBuilder# :rocket: :octocat:
 
 QT Builder is a easy to use tool that allowes users
 to convert their Qt UI files to python scripts.
