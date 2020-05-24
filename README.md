@@ -10,7 +10,7 @@ on your terminal.<br>
 - GUI<br>
 - CLI<br>
 
-[Download Installer](https://github.comTaqsBlaze/QtBuild/blob/master/executable/QtBuild1.2.2.zip)<br>
+[Download Installer](https://github.com/TaqsBlaze/QtBuild/blob/master/executable/QtBuild1.2.2.zip)<br>
 **GUI**<br>
 by using the GUI version you only need to supply
 source UI file and give your output script name
