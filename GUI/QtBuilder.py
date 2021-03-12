@@ -212,7 +212,7 @@ class Ui_QtBuilder(object):
         from qtsys.update import updater
     def settings(self):
         from qtsys.config import settings
-        
+        settings.Frame() #To enable reopening of cloed window
 
 if __name__ == "__main__":
     import sys
